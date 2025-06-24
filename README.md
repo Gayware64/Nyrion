@@ -5,3 +5,31 @@ Nyrion is capable of a few basic commands. In the future it will gain the capabi
 Nyrion 1.0 has
 A loading screen
 Capabilty to take over simple CMD commands.
+
+All commands at the moment:
+create [filename]
+Create a new empty document/file.
+
+open [filename]
+Open a file and display its contents.
+
+delete [filename]
+Delete a specified file.
+
+time
+Show the current system time.
+
+ls
+List files and directories in the current folder.
+
+cd [foldername]
+Change directory to the specified folder.
+
+clear
+Clear the terminal screen.
+
+exit
+Exit the OS simulation.
+
+help
+Display available commands and usage.
