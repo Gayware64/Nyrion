@@ -34,5 +34,9 @@ Exit the OS simulation.
 help
 Display available commands and usage.
 
+PLANNED
+Prefix and an small coding language
+Being able to use the internet 
+
 ![Nyrion Logo](https://github.com/user-attachments/assets/e9b7d50d-5388-459a-ac43-da38341dbb9b)
 
