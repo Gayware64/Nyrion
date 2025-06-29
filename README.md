@@ -39,7 +39,7 @@ Display available commands and usage.
 - Being able to install apps 
 - Being able to use the internet
   
-⚠️Nyrion will stop working on Windows 7/8/8.1 when Nyrion 2.0 rolls out⚠️
+⚠️Nyrion will stop working on Windows 7/8/8.1 when Nyrion 1.1 rolls out⚠️
 
 ![Nyrion Logo](https://github.com/user-attachments/assets/e9b7d50d-5388-459a-ac43-da38341dbb9b)
 
