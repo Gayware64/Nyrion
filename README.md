@@ -12,6 +12,11 @@ Nyrion 1.1 has
 - PLANNED
 - Being able to install apps 
 - Being able to use the internet
+
+- Minimum Requirements
+- Windows 7 or Higher
+- Linux (Any Distro)
+- Might work on MacOS 
   
 
 ![Nyrion Logo](https://github.com/user-attachments/assets/e9b7d50d-5388-459a-ac43-da38341dbb9b)
