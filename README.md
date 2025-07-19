@@ -12,6 +12,9 @@ Nyrion 1.3 has
 - ASCII Drawing tool
 - An Chatbot (Beta)
 
+
+
+
 - PLANNED
 - Being able to install apps
 - -Web Browser via Command line
