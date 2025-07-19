@@ -25,7 +25,8 @@ Nyrion 1.3.1 has
 - Minimum Requirements
 - Windows 7 or Higher
 - Linux (Any Distro)
-- Might work on MacOS 
+- Might work on MacOS
+- Tkinter for Nyrion 1.2.2 and up.
   
 
 ![Nyrion Logo](https://github.com/user-attachments/assets/e9b7d50d-5388-459a-ac43-da38341dbb9b)
