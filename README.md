@@ -45,4 +45,7 @@ Command Line
 - MacOS is not offically supported but it might work
 - Tkinter for Nyrion 1.3 and up.
 
+**DISCLAIMER**
+Nyrion 1.3 will be the last version that has an command line!
+
 
