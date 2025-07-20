@@ -16,7 +16,7 @@ Features
 
 - PLANNED
 - Being able to install apps
-- -Web Browser via Command line
+- Web Browser via Command line
 
 ---
 Screenshots
