@@ -20,12 +20,12 @@ Nyrion 1.3.1 has
 - -Web Browser via Command line
 
 
-- 
+
 
 - Minimum Requirements
 - Windows 7 or Higher
 - Linux (Any Distro)
-- Might work on MacOS
+- MacOS is not offically supported but it might work
 - Tkinter for Nyrion 1.2.2 and up.
   
 
