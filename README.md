@@ -36,9 +36,9 @@ Command Line
 
 - For Nyrion 1.3 and up you will first need tkinter and Python
 
-If you dont want to install Python or tkinter. Download version 1.2.2. 
+- If you dont want to install Python or tkinter. Download version 1.2.2. 
 
-**EXE versions are only updated once per month. So not every Nyrion version will have an EXE release**
+**- EXE versions are only updated once per month. So not every Nyrion version will have an EXE release**
 
 
 ---
