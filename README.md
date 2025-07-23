@@ -54,5 +54,6 @@ https://github.com/Gayware64/Nyrion-LTS-Nebula-
 
 **DISCLAIMER**
 Nyrion 1.3 will be the last version that has an command line!
+<img width="1024" height="1024" alt="NyrionLOGO" src="https://github.com/user-attachments/assets/41d50981-93a8-4f2e-8160-163d52e236de" />
 
 
