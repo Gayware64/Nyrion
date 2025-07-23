@@ -11,6 +11,8 @@ Features
 - An GUI and an Command Line
 - ASCII Drawing tool
 - An Chatbot (Beta)
+- Snake Game
+- Calculator
 
 ---
 
