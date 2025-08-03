@@ -5,7 +5,7 @@ Nyrion is a graphical and command-line shell environment built on Lion 0.2.1, a 
 
 Features
 - A loading screen
-- Its own prefix (Lion v0.2.1)
+- Its own prefix (Lion v0.2.2)
 - Abilty to check system specs 
 - Web Browser
 - An GUI and an Command Line
@@ -36,13 +36,13 @@ Command Line
 
 - If you dont want to install Python or tkinter. Download version 1.2.2.
 
-- Recommended command line version = Nyrion **1.1.2**
+- Recommended command line version = Nyrion **LTA Atlas** 
 
 - **The latest CLI version can be downloaded here:**
-https://github.com/Gayware64/Nyrion-LTS-Nebula-
+ Best of all CLI: https://github.com/Gayware64/Nyrion-LTS-Atlas
+Long term support: https://github.com/Gayware64/Nyrion-Aeon
 
 **- EXE versions are only updated once per month. So not every Nyrion version will have an EXE release**
-
 
 ---
 
